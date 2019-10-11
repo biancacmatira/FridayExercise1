@@ -57,4 +57,4 @@ public class Rectangle {
     }
 }
 
-// help
+// Got help from my friend, Mika
